@@ -1,5 +1,5 @@
 sphinx==7.1.2
 sphinx-tabs
-furo==2024.1.29
+furo==2024.8.6
 myst-parser
 sphinx-copybutton
